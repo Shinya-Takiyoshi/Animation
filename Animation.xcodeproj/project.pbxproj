@@ -13,6 +13,7 @@
 		D5574AA12451AFB500DA056C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5574A9F2451AFB500DA056C /* Main.storyboard */; };
 		D5574AA32451AFB900DA056C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5574AA22451AFB900DA056C /* Assets.xcassets */; };
 		D5574AA62451AFB900DA056C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5574AA42451AFB900DA056C /* LaunchScreen.storyboard */; };
+		D5574AAE2451AFE500DA056C /* original.png in Resources */ = {isa = PBXBuildFile; fileRef = D5574AAD2451AFE500DA056C /* original.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D5574AA22451AFB900DA056C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D5574AA52451AFB900DA056C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D5574AA72451AFB900DA056C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5574AAD2451AFE500DA056C /* original.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = original.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D5574A992451AFB500DA056C /* AppDelegate.swift */,
 				D5574A9B2451AFB500DA056C /* SceneDelegate.swift */,
 				D5574A9D2451AFB500DA056C /* ViewController.swift */,
+				D5574AAD2451AFE500DA056C /* original.png */,
 				D5574A9F2451AFB500DA056C /* Main.storyboard */,
 				D5574AA22451AFB900DA056C /* Assets.xcassets */,
 				D5574AA42451AFB900DA056C /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5574AAE2451AFE500DA056C /* original.png in Resources */,
 				D5574AA62451AFB900DA056C /* LaunchScreen.storyboard in Resources */,
 				D5574AA32451AFB900DA056C /* Assets.xcassets in Resources */,
 				D5574AA12451AFB500DA056C /* Main.storyboard in Resources */,
